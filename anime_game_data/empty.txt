@@ -1,0 +1,1380 @@
+
+Entries with empty, null, or unknown fields:
+--------------------------------------------------
+
+Anime: Frieren: Beyond Journey's End
+Empty fields: theme
+
+Anime: Steins;Gate
+Empty fields: demographic
+
+Anime: Hunter x Hunter
+Empty fields: theme
+
+Anime: Legend of the Galactic Heroes
+Empty fields: year, season, demographic
+
+Anime: A Silent Voice
+Empty fields: year, season, theme
+
+Anime: The Apothecary Diaries
+Empty fields: demographic
+
+Anime: Your Name.
+Empty fields: year, season, theme, demographic
+
+Anime: Spirited Away
+Empty fields: year, season, demographic
+
+Anime: Bocchi the Rock!
+Empty fields: demographic
+
+Anime: Cowboy Bebop
+Empty fields: demographic
+
+Anime: One Piece
+Empty fields: theme, number_of_episodes
+
+Anime: Link Click
+Empty fields: year, season, demographic
+
+Anime: Code Geass: Lelouch of the Rebellion
+Empty fields: demographic
+
+Anime: Violet Evergarden
+Empty fields: theme, demographic
+
+Anime: Howl's Moving Castle
+Empty fields: year, season, theme, demographic
+
+Anime: Princess Mononoke
+Empty fields: year, season, theme, demographic
+
+Anime: Look Back
+Empty fields: year, season
+
+Anime: Gurren Lagann
+Empty fields: demographic
+
+Anime: Odd Taxi
+Empty fields: demographic
+
+Anime: Made in Abyss
+Empty fields: demographic
+
+Anime: Ping Pong the Animation
+Empty fields: theme
+
+Anime: Cyberpunk: Edgerunners
+Empty fields: year, season, demographic
+
+Anime: Delicious in Dungeon
+Empty fields: theme
+
+Anime: Fights Break Sphere: Three Year Agreement
+Empty fields: year, season, demographic
+
+Anime: Wolf Children
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Attack on Titan
+Empty fields: country_of_origin
+
+Anime: Nana
+Empty fields: country_of_origin
+
+Anime: Showa Genroku Rakugo Shinju
+Empty fields: country_of_origin
+
+Anime: I Want To Eat Your Pancreas
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: The Tatami Galaxy
+Empty fields: demographic, country_of_origin
+
+Anime: Perfect Blue
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Slam Dunk
+Empty fields: country_of_origin
+
+Anime: Jujutsu Kaisen
+Empty fields: country_of_origin
+
+Anime: To Be Hero X
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Grave of the Fireflies
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Samurai Champloo
+Empty fields: demographic, country_of_origin
+
+Anime: A Place Further Than The Universe
+Empty fields: demographic, country_of_origin
+
+Anime: DanDaDan
+Empty fields: theme, country_of_origin
+
+Anime: Mob Psycho 100
+Empty fields: theme, demographic, country_of_origin
+
+Anime: One Punch Man
+Empty fields: country_of_origin
+
+Anime: Ranking of Kings
+Empty fields: theme, demographic, country_of_origin
+
+Anime: The Promised Neverland
+Empty fields: country_of_origin
+
+Anime: Space Brothers
+Empty fields: country_of_origin
+
+Anime: Summer Time Rendering
+Empty fields: country_of_origin
+
+Anime: Nichijou - My Ordinary Life
+Empty fields: country_of_origin
+
+Anime: The Master of Diabolism
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Rainbow
+Empty fields: country_of_origin
+
+Anime: Yu Yu Hakusho: Ghost Files
+Empty fields: country_of_origin
+
+Anime: Spy x Family
+Empty fields: country_of_origin
+
+Anime: Pluto
+Empty fields: year, season, country_of_origin
+
+Anime: Owarimonogatari
+Empty fields: demographic, country_of_origin
+
+Anime: Banana Fish
+Empty fields: country_of_origin
+
+Anime: Chainsaw Man
+Empty fields: country_of_origin
+
+Anime: Doupo Cangqiong: Nian Fan
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Grand Blue Dreaming
+Empty fields: country_of_origin
+
+Anime: Haikyu!!
+Empty fields: country_of_origin
+
+Anime: Demon Slayer: Kimetsu no Yaiba
+Empty fields: country_of_origin
+
+Anime: The Disastrous Life of Saiki K.
+Empty fields: country_of_origin
+
+Anime: Heaven Official's Blessing
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Mononoke
+Empty fields: demographic, country_of_origin
+
+Anime: Kaguya-sama: Love is War
+Empty fields: country_of_origin
+
+Anime: Maquia: When the Promised Flower Blooms
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Ramayana: The Legend of Prince Rama
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Land of the Lustrous
+Empty fields: country_of_origin
+
+Anime: Blue Giant
+Empty fields: year, genre, season, country_of_origin
+
+Anime: Medalist
+Empty fields: country_of_origin
+
+Anime: Girls Band Cry
+Empty fields: demographic, country_of_origin
+
+Anime: Run with the Wind
+Empty fields: demographic, country_of_origin
+
+Anime: Vivy -Fluorite Eye's Song-
+Empty fields: demographic, country_of_origin
+
+Anime: Josee, the Tiger and the Fish
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Puella Magi Madoka Magica
+Empty fields: demographic, country_of_origin
+
+Anime: Cross Game
+Empty fields: country_of_origin
+
+Anime: March Comes In Like a Lion
+Empty fields: country_of_origin
+
+Anime: Barakamon
+Empty fields: demographic, country_of_origin
+
+Anime: Neon Genesis Evangelion
+Empty fields: demographic, country_of_origin
+
+Anime: Renegade Immortal
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Nausicaä of the Valley of the Wind
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Baccano!
+Empty fields: demographic, country_of_origin
+
+Anime: The Rose of Versailles
+Empty fields: country_of_origin
+
+Anime: Mushoku Tensei: Jobless Reincarnation
+Empty fields: demographic, country_of_origin
+
+Anime: To Your Eternity
+Empty fields: theme, country_of_origin
+
+Anime: Tomorrow's Joe
+Empty fields: country_of_origin
+
+Anime: 86 Eighty-Six
+Empty fields: demographic, country_of_origin
+
+Anime: Psycho-Pass
+Empty fields: demographic, country_of_origin
+
+Anime: One Outs
+Empty fields: country_of_origin
+
+Anime: Bakemonogatari
+Empty fields: demographic, country_of_origin
+
+Anime: Parasyte: The Maxim
+Empty fields: country_of_origin
+
+Anime: Bunny Drop
+Empty fields: country_of_origin
+
+Anime: Romeo's Blue Skies
+Empty fields: demographic, country_of_origin
+
+Anime: Welcome to the N.H.K.
+Empty fields: demographic, country_of_origin
+
+Anime: The Legend of Hei
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Natsume's Book of Friends
+Empty fields: country_of_origin
+
+Anime: Erased
+Empty fields: country_of_origin
+
+Anime: Given
+Empty fields: demographic, country_of_origin
+
+Anime: Redline
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: The Beast Player Erin
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Kids on the Slope
+Empty fields: country_of_origin
+
+Anime: Beck: Mongolian Chop Squad
+Empty fields: country_of_origin
+
+Anime: Anohana: The Flower We Saw That Day
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Kaiju No. 8
+Empty fields: country_of_origin
+
+Anime: Tokyo Godfathers
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Kino's Journey
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Rurouni Kenshin
+Empty fields: country_of_origin
+
+Anime: Laid-Back Camp
+Empty fields: demographic, country_of_origin
+
+Anime: Doukyusei: Classmates
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Shirobako
+Empty fields: demographic, country_of_origin
+
+Anime: Fate/Zero
+Empty fields: demographic, country_of_origin
+
+Anime: Moomin
+Empty fields: country_of_origin
+
+Anime: Ghost in the Shell
+Empty fields: year, season, country_of_origin
+
+Anime: Into the Forest of Fireflies' Light
+Empty fields: year, season, theme, country_of_origin
+
+Anime: Weathering with You
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Solo Leveling
+Empty fields: demographic, country_of_origin
+
+Anime: Castle in the Sky
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Dr. Stone
+Empty fields: theme, country_of_origin
+
+Anime: Suzume
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Dororo
+Empty fields: country_of_origin
+
+Anime: From the New World
+Empty fields: demographic, country_of_origin
+
+Anime: Sword of the Stranger
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Nodame Cantabile
+Empty fields: country_of_origin
+
+Anime: The Eminence in Shadow
+Empty fields: demographic, country_of_origin
+
+Anime: My Neighbor Totoro
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Planetes
+Empty fields: country_of_origin
+
+Anime: Millennium Actress
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Re:ZERO -Starting Life in Another World
+Empty fields: demographic, country_of_origin
+
+Anime: The Dangers in My Heart
+Empty fields: country_of_origin
+
+Anime: The Boy and the Beast
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Daily Lives of High School Boys
+Empty fields: demographic, country_of_origin
+
+Anime: Rascal Does Not Dream of Bunny Girl Senpai
+Empty fields: demographic, country_of_origin
+
+Anime: Kiki's Delivery Service
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Liz and the Blue Bird
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: In This Corner of the World
+Empty fields: year, season, country_of_origin
+
+Anime: Whisper of the Heart
+Empty fields: year, season, theme, country_of_origin
+
+Anime: Revolutionary Girl Utena
+Empty fields: demographic, country_of_origin
+
+Anime: Trigun
+Empty fields: country_of_origin
+
+Anime: Blue Box
+Empty fields: country_of_origin
+
+Anime: A Sign of Affection
+Empty fields: country_of_origin
+
+Anime: Heavenly Delusion
+Empty fields: theme, country_of_origin
+
+Anime: Spice and Wolf
+Empty fields: demographic, country_of_origin
+
+Anime: The Tale of the Princess Kaguya
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Major S1
+Empty fields: country_of_origin
+
+Anime: Great Pretender
+Empty fields: demographic, country_of_origin
+
+Anime: SKET Dance
+Empty fields: country_of_origin
+
+Anime: Sasaki and Miyano
+Empty fields: demographic, country_of_origin
+
+Anime: Asobi Asobase - workshop of fun -
+Empty fields: country_of_origin
+
+Anime: Maison Ikkoku
+Empty fields: country_of_origin
+
+Anime: Symphogear XV
+Empty fields: demographic, country_of_origin
+
+Anime: Horimiya
+Empty fields: country_of_origin
+
+Anime: Chihayafuru
+Empty fields: country_of_origin
+
+Anime: Blue Lock
+Empty fields: country_of_origin
+
+Anime: The Tatami Time Machine Blues
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Case Closed
+Empty fields: country_of_origin, number_of_episodes
+
+Anime: Welcome to the Ballroom
+Empty fields: country_of_origin
+
+Anime: Cardcaptor Sakura
+Empty fields: country_of_origin
+
+Anime: The Demon Hunter
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Night Is Short, Walk on Girl
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Little Busters! ~Refrain~
+Empty fields: demographic, country_of_origin
+
+Anime: Bakuman.
+Empty fields: country_of_origin
+
+Anime: Moriarty the Patriot
+Empty fields: country_of_origin
+
+Anime: Chiikawa
+Empty fields: theme, country_of_origin, number_of_episodes
+
+Anime: Ouran High School Host Club
+Empty fields: country_of_origin
+
+Anime: Aoashi
+Empty fields: country_of_origin
+
+Anime: Kotaro Lives Alone
+Empty fields: year, season, country_of_origin
+
+Anime: Akira
+Empty fields: year, season, country_of_origin
+
+Anime: Holo Graffiti
+Empty fields: year, season, theme, demographic, country_of_origin, number_of_episodes
+
+Anime: Lycoris Recoil
+Empty fields: theme, demographic, country_of_origin
+
+Anime: My Dress-Up Darling
+Empty fields: country_of_origin
+
+Anime: Beyond the Boundary: I'll Be Here - Future
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Kaiba
+Empty fields: demographic, country_of_origin
+
+Anime: Princess Tutu
+Empty fields: demographic, country_of_origin
+
+Anime: Black Clover
+Empty fields: theme, country_of_origin
+
+Anime: That Time I Got Reincarnated as a Slime
+Empty fields: country_of_origin
+
+Anime: Throne of Seal
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Keep Your Hands Off Eizouken!
+Empty fields: country_of_origin
+
+Anime: The Wind Rises
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Pompo: The Cinéphile
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Interstella5555: The 5tory of The 5ecret 5tar 5ystem
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Death Parade
+Empty fields: demographic, country_of_origin
+
+Anime: Nisemonogatari
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Makeine: Too Many Losing Heroines!
+Empty fields: demographic, country_of_origin
+
+Anime: The Fable
+Empty fields: country_of_origin
+
+Anime: Hinamatsuri
+Empty fields: country_of_origin
+
+Anime: Kamisama Kiss
+Empty fields: country_of_origin
+
+Anime: Moribito - Guardian of the Spirit
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Reborn!
+Empty fields: country_of_origin
+
+Anime: Skip and Loafer
+Empty fields: country_of_origin
+
+Anime: Food Wars! Shokugeki no Soma
+Empty fields: country_of_origin
+
+Anime: Buddy Daddies
+Empty fields: demographic, country_of_origin
+
+Anime: Princess Jellyfish
+Empty fields: country_of_origin
+
+Anime: Ace of Diamond
+Empty fields: country_of_origin
+
+Anime: Ya Boy Kongming!
+Empty fields: demographic, country_of_origin
+
+Anime: Gankutsuou: The Count of Monte Cristo
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Tsurune - The Linking Shot
+Empty fields: demographic, country_of_origin
+
+Anime: Shangri-La Frontier
+Empty fields: country_of_origin
+
+Anime: Slay The Gods
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Durarara!!
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Silver Spoon
+Empty fields: country_of_origin
+
+Anime: Detroit Metal City
+Empty fields: year, season, country_of_origin
+
+Anime: Hell's Paradise
+Empty fields: country_of_origin
+
+Anime: Serial Experiments Lain
+Empty fields: demographic, country_of_origin
+
+Anime: Future Boy Conan
+Empty fields: theme, demographic, country_of_origin
+
+Anime: KonoSuba: God's Blessing on This Wonderful World!
+Empty fields: demographic, country_of_origin
+
+Anime: The Girl Who Leapt Through Time
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Ave Mujica: The Die is Cast
+Empty fields: demographic, country_of_origin
+
+Anime: Terror in Resonance
+Empty fields: demographic, country_of_origin
+
+Anime: Insomniacs After School
+Empty fields: country_of_origin
+
+Anime: Skip Beat!
+Empty fields: country_of_origin
+
+Anime: Astra Lost in Space
+Empty fields: country_of_origin
+
+Anime: Hikaru no Go
+Empty fields: country_of_origin
+
+Anime: Assassination Classroom
+Empty fields: country_of_origin
+
+Anime: Azumanga Daioh: The Animation
+Empty fields: demographic, country_of_origin
+
+Anime: Yatagarasu: The Raven Does Not Choose Its Master
+Empty fields: demographic, country_of_origin
+
+Anime: The Pet Girl of Sakurasou
+Empty fields: demographic, country_of_origin
+
+Anime: Angel Beats!
+Empty fields: demographic, country_of_origin
+
+Anime: The Ancient Magus' Bride
+Empty fields: country_of_origin
+
+Anime: Kuroko's Basketball
+Empty fields: country_of_origin
+
+Anime: Hyouka
+Empty fields: demographic, country_of_origin
+
+Anime: Toradora!
+Empty fields: demographic, country_of_origin
+
+Anime: Swallowed Star
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Kodocha
+Empty fields: country_of_origin
+
+Anime: Kyou kara Ore wa!!
+Empty fields: year, season, country_of_origin
+
+Anime: No Game, No Life
+Empty fields: demographic, country_of_origin
+
+Anime: Eureka Seven
+Empty fields: demographic, country_of_origin
+
+Anime: Dorohedoro
+Empty fields: country_of_origin
+
+Anime: NieR:Automata Ver1.1a (Cour 2)
+Empty fields: theme, demographic, country_of_origin
+
+Anime: When Marnie Was There
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Gosick
+Empty fields: demographic, country_of_origin
+
+Anime: Paprika
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: KenIchi: The Mightiest Disciple
+Empty fields: country_of_origin
+
+Anime: Golden Boy
+Empty fields: year, season, country_of_origin
+
+Anime: FLCL
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Darker than Black
+Empty fields: demographic, country_of_origin
+
+Anime: Tales of Herding Gods
+Empty fields: year, season, demographic, country_of_origin, number_of_episodes
+
+Anime: Yona of the Dawn
+Empty fields: theme, country_of_origin
+
+Anime: Lovely Complex
+Empty fields: country_of_origin
+
+Anime: Glass Mask
+Empty fields: country_of_origin
+
+Anime: Kill la Kill
+Empty fields: demographic, country_of_origin
+
+Anime: Black Lagoon
+Empty fields: country_of_origin
+
+Anime: Tsukigakirei
+Empty fields: demographic, country_of_origin
+
+Anime: Sound! Euphonium
+Empty fields: demographic, country_of_origin
+
+Anime: Full Metal Panic? Fumoffu
+Empty fields: demographic, country_of_origin
+
+Anime: Heart and Yummie
+Empty fields: year, season, country_of_origin
+
+Anime: Den-noh Coil
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Mignon
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Silver Fang
+Empty fields: country_of_origin
+
+Anime: Kimi ni Todoke: From Me to You
+Empty fields: country_of_origin
+
+Anime: Pui Pui Molcar
+Empty fields: country_of_origin
+
+Anime: Summer Wars
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Magi: The Labyrinth of Magic
+Empty fields: theme, country_of_origin
+
+Anime: Slayers Next
+Empty fields: theme, demographic, country_of_origin
+
+Anime: The Twelve Kingdoms
+Empty fields: demographic, country_of_origin
+
+Anime: Naruto
+Empty fields: country_of_origin
+
+Anime: Tokyo Magnitude 8.0
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Tales of Saiunkoku
+Empty fields: country_of_origin
+
+Anime: La Maison en Petits Cubes
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: SK8 the Infinity
+Empty fields: demographic, country_of_origin
+
+Anime: D.Gray-man
+Empty fields: country_of_origin
+
+Anime: My Teen Romantic Comedy SNAFU
+Empty fields: demographic, country_of_origin
+
+Anime: Zombie Land Saga Revenge
+Empty fields: demographic, country_of_origin
+
+Anime: Clannad
+Empty fields: demographic, country_of_origin
+
+Anime: Maid Sama!
+Empty fields: country_of_origin
+
+Anime: The World God Only Knows: Goddesses
+Empty fields: country_of_origin
+
+Anime: Hanada Shounen-shi
+Empty fields: theme, country_of_origin
+
+Anime: Touch
+Empty fields: country_of_origin
+
+Anime: Time of Eve
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Haibane Renmei
+Empty fields: demographic, country_of_origin
+
+Anime: Dragon Ball
+Empty fields: country_of_origin
+
+Anime: Honey and Clover
+Empty fields: country_of_origin
+
+Anime: Ascendance of a Bookworm
+Empty fields: demographic, country_of_origin
+
+Anime: All Saints Street
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Kakushigoto
+Empty fields: country_of_origin
+
+Anime: xxxHOLiC
+Empty fields: theme, country_of_origin
+
+Anime: Bleach
+Empty fields: theme, country_of_origin
+
+Anime: Hyouge Mono
+Empty fields: genre, country_of_origin
+
+Anime: ReLIFE
+Empty fields: demographic, country_of_origin
+
+Anime: Saga of Tanya the Evil
+Empty fields: demographic, country_of_origin
+
+Anime: Fist of the North Star
+Empty fields: country_of_origin
+
+Anime: Porco Rosso
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Magical Girl Lyrical Nanoha A's
+Empty fields: demographic, country_of_origin
+
+Anime: Sleepy Princess in the Demon Castle
+Empty fields: country_of_origin
+
+Anime: Ponyo
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Call of the Night
+Empty fields: country_of_origin
+
+Anime: Romantic Killer
+Empty fields: year, season, country_of_origin
+
+Anime: A Lull in the Sea
+Empty fields: demographic, country_of_origin
+
+Anime: Kobato.
+Empty fields: theme, demographic, country_of_origin
+
+Anime: A Will Eternal
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Non Non Biyori
+Empty fields: country_of_origin
+
+Anime: Kanon
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Noragami
+Empty fields: country_of_origin
+
+Anime: Tekkonkinkreet
+Empty fields: year, season, country_of_origin
+
+Anime: The File of Young Kindaichi
+Empty fields: theme, country_of_origin
+
+Anime: The Tunnel to Summer, the Exit of Goodbyes
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Soul Land
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Dead Dead Demons Dededede Destruction
+Empty fields: year, season, country_of_origin
+
+Anime: Treasure Island
+Empty fields: demographic, country_of_origin
+
+Anime: Kono Oto Tomare!: Sounds of Life
+Empty fields: country_of_origin
+
+Anime: Sacrificial Princess and the King of Beasts
+Empty fields: country_of_origin
+
+Anime: Searching for the Full Moon
+Empty fields: country_of_origin
+
+Anime: Jade Dynasty
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Kizumonogatari: Koyomi Vamp
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: My New Boss Is Goofy
+Empty fields: demographic, country_of_origin
+
+Anime: Mr. Osomatsu
+Empty fields: demographic, country_of_origin
+
+Anime: Phantom: Requiem for the Phantom
+Empty fields: demographic, country_of_origin
+
+Anime: Nura: Rise of the Yokai Clan - Demon Capital
+Empty fields: country_of_origin
+
+Anime: The Rising of the Shield Hero
+Empty fields: demographic, country_of_origin
+
+Anime: Penguindrum
+Empty fields: demographic, country_of_origin
+
+Anime: Miss Kobayashi's Dragon Maid
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Yowamushi Pedal
+Empty fields: country_of_origin
+
+Anime: Akagi
+Empty fields: country_of_origin
+
+Anime: Wotakoi: Love is Hard for Otaku
+Empty fields: demographic, country_of_origin
+
+Anime: The Ideon: Be Invoked
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Tamako Love Story
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Summer Ghost
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: City Hunter
+Empty fields: country_of_origin
+
+Anime: Scissor Seven
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Yakitate!! Japan
+Empty fields: theme, country_of_origin
+
+Anime: Eyeshield 21
+Empty fields: country_of_origin
+
+Anime: Is It Wrong to Try to Pick Up Girls in a Dungeon? V
+Empty fields: theme, demographic, country_of_origin
+
+Anime: School Babysitters
+Empty fields: country_of_origin
+
+Anime: Log Horizon
+Empty fields: demographic, country_of_origin
+
+Anime: Welcome to Irabu's Office
+Empty fields: demographic, country_of_origin
+
+Anime: Kaleido Star
+Empty fields: demographic, country_of_origin
+
+Anime: Sans Famille
+Empty fields: demographic, country_of_origin
+
+Anime: The Secret World of Arrietty
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Les Misérables: Shoujo Cosette
+Empty fields: demographic, country_of_origin
+
+Anime: Ergo Proxy
+Empty fields: demographic, country_of_origin
+
+Anime: Yuri!!! On Ice
+Empty fields: demographic, country_of_origin
+
+Anime: The Case Study of Vanitas
+Empty fields: country_of_origin
+
+Anime: Overlord
+Empty fields: demographic, country_of_origin
+
+Anime: Hanasaku Iroha: Blossoms for Tomorrow
+Empty fields: demographic, country_of_origin
+
+Anime: Galaxy Warring State Chronicle Rai
+Empty fields: country_of_origin
+
+Anime: Space Dandy
+Empty fields: demographic, country_of_origin
+
+Anime: Promare
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: My Love Story!!
+Empty fields: theme, country_of_origin
+
+Anime: Polar Bear Cafe
+Empty fields: country_of_origin
+
+Anime: Bloom Into You
+Empty fields: demographic, country_of_origin
+
+Anime: Golden Kamuy
+Empty fields: country_of_origin
+
+Anime: Ushio & Tora (2016)
+Empty fields: country_of_origin
+
+Anime: Megalobox
+Empty fields: demographic, country_of_origin
+
+Anime: Nobody's Boy Remi
+Empty fields: country_of_origin
+
+Anime: Cromartie High School
+Empty fields: country_of_origin
+
+Anime: School Rumble
+Empty fields: country_of_origin
+
+Anime: Kingdom
+Empty fields: country_of_origin
+
+Anime: Drifters
+Empty fields: country_of_origin
+
+Anime: Wistoria: Wand and Sword
+Empty fields: country_of_origin
+
+Anime: The Yuzuki Family's Four Sons
+Empty fields: country_of_origin
+
+Anime: Carnival Phantasm
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Big Windup!
+Empty fields: country_of_origin
+
+Anime: Hell Girl: Two Mirrors
+Empty fields: demographic, country_of_origin
+
+Anime: The Story of Saiunkoku
+Empty fields: country_of_origin
+
+Anime: Higurashi: When They Cry
+Empty fields: demographic, country_of_origin
+
+Anime: Death Billiards
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Doraemon
+Empty fields: country_of_origin
+
+Anime: JoJo's Bizarre Adventure (2012)
+Empty fields: country_of_origin
+
+Anime: Paradise Kiss
+Empty fields: country_of_origin
+
+Anime: InuYasha
+Empty fields: country_of_origin
+
+Anime: How Dare You!?
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Undead Murder Farce
+Empty fields: demographic, country_of_origin
+
+Anime: Play It Cool, Guys
+Empty fields: demographic, country_of_origin
+
+Anime: Magic Kaito 1412
+Empty fields: theme, country_of_origin
+
+Anime: The Garden of Words
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: The King's Avatar
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: K-ON!
+Empty fields: demographic, country_of_origin
+
+Anime: Heartcatch Precure!
+Empty fields: demographic, country_of_origin
+
+Anime: Perfect World
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Dear Brother
+Empty fields: country_of_origin
+
+Anime: Tokyo Revengers
+Empty fields: country_of_origin
+
+Anime: ef - a tale of memories.
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Totto-chan, the Little Girl at the Window
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: The Girl Downstairs
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Sayonara, Zetsubou-Sensei
+Empty fields: country_of_origin
+
+Anime: Toward the Terra (TV)
+Empty fields: country_of_origin
+
+Anime: Tonikawa: Over The Moon For You
+Empty fields: theme, country_of_origin
+
+Anime: Gunbuster
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Soul Eater
+Empty fields: country_of_origin
+
+Anime: The Prince of Tennis
+Empty fields: country_of_origin
+
+Anime: Pseudo Harem
+Empty fields: country_of_origin
+
+Anime: Dark Gathering
+Empty fields: country_of_origin
+
+Anime: Carole & Tuesday
+Empty fields: demographic, country_of_origin
+
+Anime: Yume-iro Pâtissière
+Empty fields: country_of_origin
+
+Anime: The Irresponsible Captain Tylor
+Empty fields: demographic, country_of_origin
+
+Anime: Beelzebub
+Empty fields: country_of_origin
+
+Anime: My Hero Academia
+Empty fields: country_of_origin
+
+Anime: Anne of Green Gables
+Empty fields: demographic, country_of_origin
+
+Anime: Classroom of the Elite
+Empty fields: demographic, country_of_origin
+
+Anime: The Angel Next Door Spoils Me Rotten
+Empty fields: demographic, country_of_origin
+
+Anime: A Record of Mortal's Journey to Immortality: Speeding in the Sea of Stars
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Hug tto! Precure
+Empty fields: demographic, country_of_origin
+
+Anime: There She Is!!
+Empty fields: year, season, studio, demographic, country_of_origin
+
+Anime: Ojamajo Doremi Na-i-sho
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Michiko & Hatchin
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Sonny Boy
+Empty fields: demographic, country_of_origin
+
+Anime: King of Braves GaoGaiGar
+Empty fields: demographic, country_of_origin
+
+Anime: Outlaw Star
+Empty fields: country_of_origin
+
+Anime: Tiger & Bunny
+Empty fields: demographic, country_of_origin
+
+Anime: Monthly Girls' Nozaki-kun
+Empty fields: demographic, country_of_origin
+
+Anime: ID: INVADED
+Empty fields: demographic, country_of_origin
+
+Anime: Baby and Me
+Empty fields: country_of_origin
+
+Anime: Toilet-Bound Hanako-kun
+Empty fields: country_of_origin
+
+Anime: The Eccentric Family
+Empty fields: demographic, country_of_origin
+
+Anime: The Stranger by the Shore
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: The Melancholy of Haruhi Suzumiya
+Empty fields: demographic, country_of_origin
+
+Anime: Capeta
+Empty fields: country_of_origin
+
+Anime: 91 Days
+Empty fields: demographic, country_of_origin
+
+Anime: Komi Can't Communicate
+Empty fields: country_of_origin
+
+Anime: The All-devouring Whale: Homecoming
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: Anne Shirley
+Empty fields: demographic, country_of_origin
+
+Anime: Against the Gods
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Bungo Stray Dogs
+Empty fields: country_of_origin
+
+Anime: Thousand Autumns
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Tanaka-kun is Always Listless
+Empty fields: demographic, country_of_origin
+
+Anime: Somali and the Forest Spirit
+Empty fields: demographic, country_of_origin
+
+Anime: Little Witch Academia
+Empty fields: demographic, country_of_origin
+
+Anime: Dance Dance Danseur
+Empty fields: country_of_origin
+
+Anime: Dusk Maiden of Amnesia
+Empty fields: country_of_origin
+
+Anime: Shin Chan
+Empty fields: country_of_origin, number_of_episodes
+
+Anime: Gungrave
+Empty fields: demographic, country_of_origin
+
+Anime: Mashle: Magic and Muscles The Divine Visionary Candidate Exam Arc
+Empty fields: country_of_origin
+
+Anime: The Elusive Samurai
+Empty fields: country_of_origin
+
+Anime: Uma Musume: Pretty Derby - Road to the Top
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Magical Circle
+Empty fields: country_of_origin
+
+Anime: Beastars
+Empty fields: country_of_origin
+
+Anime: Shadows House
+Empty fields: theme, country_of_origin
+
+Anime: Planetarian: Storyteller of the Stars
+Empty fields: year, season, theme, demographic, country_of_origin
+
+Anime: The Anthem of the Heart
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Giant Robo the Animation: The Day the Earth Stood Still
+Empty fields: year, season, country_of_origin
+
+Anime: Slayers Try
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Jormungand
+Empty fields: country_of_origin
+
+Anime: Blue Period
+Empty fields: country_of_origin
+
+Anime: Baby Steps
+Empty fields: country_of_origin
+
+Anime: Mind Game
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Tokyo Ghoul
+Empty fields: country_of_origin
+
+Anime: The Heike Story
+Empty fields: demographic, country_of_origin
+
+Anime: Wolf's Rain
+Empty fields: theme, demographic, country_of_origin
+
+Anime: Taisho Otome Fairy Tale
+Empty fields: country_of_origin
+
+Anime: The Great Ruler
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: From Up on Poppy Hill
+Empty fields: year, season, country_of_origin
+
+Anime: Scumbag System
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Igano Kabamaru
+Empty fields: country_of_origin
+
+Anime: Kochira Katsushikaku Kameari Kouenmae Hashutsujo
+Empty fields: country_of_origin
+
+Anime: Jin-Roh: The Wolf Brigade
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Digimon: Digital Monsters
+Empty fields: country_of_origin
+
+Anime: My Love Story with Yamada-kun at Lv999
+Empty fields: demographic, country_of_origin
+
+Anime: Saiyuuki Gaiden
+Empty fields: year, season, country_of_origin
+
+Anime: Hozuki's Coolheadedness
+Empty fields: country_of_origin
+
+Anime: Blood Blockade Battlefront & Beyond
+Empty fields: country_of_origin
+
+Anime: Inu-Oh
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Barefoot Gen
+Empty fields: year, season, country_of_origin
+
+Anime: Uncle from Another World
+Empty fields: demographic, country_of_origin
+
+Anime: Ranma ½
+Empty fields: country_of_origin
+
+Anime: Is the Order a Rabbit??
+Empty fields: demographic, country_of_origin
+
+Anime: Jellyfish Can't Swim in the Night
+Empty fields: demographic, country_of_origin
+
+Anime: Undead Unluck
+Empty fields: country_of_origin
+
+Anime: Mobile Suit Gundam
+Empty fields: demographic, country_of_origin
+
+Anime: No Doubt In Us
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Legend of Exorcism
+Empty fields: year, season, demographic, country_of_origin
+
+Anime: Snow White with the Red Hair
+Empty fields: country_of_origin
+
+Anime: Saint Seiya: Knights of the Zodiac
+Empty fields: country_of_origin
+
+Anime: Galaxy Express 999
+Empty fields: demographic, country_of_origin
+
+Total entries with empty fields: 458
+Total entries in dataset: 470
