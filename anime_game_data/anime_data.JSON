@@ -2932,14 +2932,14 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 26
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1648/93626l.jpg",
 		"name": "Millennium Actress",
-		"year": "UNKNOWN",
+		"year": "2002",
 		"genre": [
 			"Action",
 			"Adventure",
@@ -2948,7 +2948,7 @@
 			"Fantasy",
 			"Romance"
 		],
-		"season": "UNKNOWN",
+		"season": "Summer",
 		"type": "Movie",
 		"score": 8.24,
 		"theme": [
@@ -3009,18 +3009,18 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/11/73540l.jpg",
 		"name": "The Boy and the Beast",
-		"year": "UNKNOWN",
+		"year": "2015",
 		"genre": [
 			"Fantasy"
 		],
-		"season": "UNKNOWN",
+		"season": "Summer",
 		"type": "Movie",
 		"score": 8.23,
 		"theme": [
@@ -3053,7 +3053,7 @@
 			"Sunrise"
 		],
 		"demographic": "Shounen",
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Web manga",
 		"number_of_episodes": 12
 	},
@@ -3085,7 +3085,7 @@
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1579/140483l.jpg",
 		"name": "Kiki's Delivery Service",
-		"year": "UNKNOWN",
+		"year": "1989",
 		"genre": [
 			"Adventure",
 			"Award Winning",
@@ -3093,10 +3093,10 @@
 			"Drama",
 			"Fantasy"
 		],
-		"season": "UNKNOWN",
+		"season": "Summer",
 		"type": "Movie",
 		"score": 8.23,
-		"theme": "UNKNOWN",
+		"theme": ["Coming of age", "Witch", "Female Protagonist"],
 		"studio": [
 			"Studio Ghibli"
 		],
@@ -3108,12 +3108,12 @@
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1638/93032l.jpg",
 		"name": "Liz and the Blue Bird",
-		"year": "UNKNOWN",
+		"year": "2018",
 		"genre": [
 			"Award Winning",
 			"Drama"
 		],
-		"season": "UNKNOWN",
+		"season": "Spring",
 		"type": "Movie",
 		"score": 8.22,
 		"theme": [
@@ -3123,20 +3123,20 @@
 		"studio": [
 			"Kyoto Animation"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shoujo",
+		"country_of_origin": "Japan",
 		"source_material": "Novel",
 		"number_of_episodes": 1
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/2/87704l.jpg",
 		"name": "In This Corner of the World",
-		"year": "UNKNOWN",
+		"year": "2016",
 		"genre": [
 			"Award Winning",
 			"Drama"
 		],
-		"season": "UNKNOWN",
+		"season": "Fall",
 		"type": "Movie",
 		"score": 8.22,
 		"theme": [
@@ -3148,29 +3148,29 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 1
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1764/138714l.jpg",
 		"name": "Whisper of the Heart",
-		"year": "UNKNOWN",
+		"year": "1995",
 		"genre": [
 			"Drama",
 			"Romance"
 		],
-		"season": "UNKNOWN",
+		"season": "Summer",
 		"type": "Movie",
 		"score": 8.22,
-		"theme": "UNKNOWN",
+		"theme": ["Coming of Age", "Female Protagonist", "Writing"],
 		"studio": [
 			"Studio Ghibli"
 		],
 		"demographic": [
 			"Shoujo"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 1
 	},
@@ -3196,7 +3196,7 @@
 		"studio": [
 			"J.C.Staff"
 		],
-		"demographic": "UNKNOWN",
+		"demographic": "Shoujo",
 		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 39
@@ -3288,7 +3288,7 @@
 		"season": "Spring",
 		"type": "TV",
 		"score": 8.21,
-		"theme": "UNKNOWN",
+		"theme": ["Dystopian", "Post-apocalyptic", "Travel"],
 		"studio": [
 			"Production I.G"
 		],
@@ -3318,7 +3318,7 @@
 		"studio": [
 			"Imagin"
 		],
-		"demographic": "UNKNOWN",
+		"demographic": "Family",
 		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 13
@@ -3326,12 +3326,12 @@
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1935/93606l.jpg",
 		"name": "The Tale of the Princess Kaguya",
-		"year": "UNKNOWN",
+		"year": "2013",
 		"genre": [
 			"Award Winning",
 			"Fantasy"
 		],
-		"season": "UNKNOWN",
+		"season": "Fall",
 		"type": "Movie",
 		"score": 8.21,
 		"theme": [
@@ -3340,8 +3340,8 @@
 		"studio": [
 			"Studio Ghibli"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Family",
+		"country_of_origin": "Japan",
 		"source_material": "Other",
 		"number_of_episodes": 1
 	},
@@ -3488,29 +3488,6 @@
 		"number_of_episodes": 96
 	},
 	{
-		"image": "https://cdn.myanimelist.net/images/anime/1899/101966l.jpg",
-		"name": "Symphogear XV",
-		"year": 2019,
-		"genre": [
-			"Action",
-			"Sci-Fi"
-		],
-		"season": "Summer",
-		"type": "TV",
-		"score": 8.19,
-		"theme": [
-			"Idols (Female)",
-			"Music"
-		],
-		"studio": [
-			"Satelight"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Original",
-		"number_of_episodes": 13
-	},
-	{
 		"image": "https://cdn.myanimelist.net/images/anime/1695/111486l.jpg",
 		"name": "Horimiya",
 		"year": 2021,
@@ -3585,14 +3562,14 @@
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1583/126128l.jpg",
 		"name": "The Tatami Time Machine Blues",
-		"year": "UNKNOWN",
+		"year": "2022",
 		"genre": [
 			"Comedy",
 			"Mystery",
 			"Romance",
 			"Suspense"
 		],
-		"season": "UNKNOWN",
+		"season": "Summer",
 		"type": "ONA",
 		"score": 8.18,
 		"theme": [
@@ -3603,8 +3580,8 @@
 		"studio": [
 			"Science SARU"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Novel",
 		"number_of_episodes": 6
 	},
@@ -3629,9 +3606,9 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
-		"number_of_episodes": "UNKNOWN"
+		"number_of_episodes": "Ongoing"
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/5/86739l.jpg",
@@ -3652,7 +3629,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 24
 	},
@@ -3679,7 +3656,7 @@
 		"demographic": [
 			"Shoujo"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 70
 	},
