@@ -3661,38 +3661,14 @@
 		"number_of_episodes": 70
 	},
 	{
-		"image": "https://cdn.myanimelist.net/images/anime/1785/136462l.jpg",
-		"name": "The Demon Hunter",
-		"year": "UNKNOWN",
-		"genre": [
-			"Action",
-			"Adventure",
-			"Fantasy"
-		],
-		"season": "UNKNOWN",
-		"type": "ONA",
-		"score": 8.17,
-		"theme": [
-			"Historical",
-			"Martial Arts"
-		],
-		"studio": [
-			"Shenman Entertainment"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Web novel",
-		"number_of_episodes": 26
-	},
-	{
 		"image": "https://cdn.myanimelist.net/images/anime/2/86940l.jpg",
 		"name": "Night Is Short, Walk on Girl",
-		"year": "UNKNOWN",
+		"year": "2017",
 		"genre": [
 			"Comedy",
 			"Romance"
 		],
-		"season": "UNKNOWN",
+		"season": "Spring",
 		"type": "Movie",
 		"score": 8.17,
 		"theme": [
@@ -3701,33 +3677,10 @@
 		"studio": [
 			"Science SARU"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Novel",
 		"number_of_episodes": 1
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/10/55049l.jpg",
-		"name": "Little Busters! ~Refrain~",
-		"year": 2013,
-		"genre": [
-			"Comedy",
-			"Drama",
-			"Romance"
-		],
-		"season": "Fall",
-		"type": "TV",
-		"score": 8.17,
-		"theme": [
-			"School"
-		],
-		"studio": [
-			"J.C.Staff"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Visual novel",
-		"number_of_episodes": 13
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/6/26138l.jpg",
@@ -3750,7 +3703,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 25
 	},
@@ -3777,30 +3730,9 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 11
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1783/121944l.jpg",
-		"name": "Chiikawa",
-		"year": 2022,
-		"genre": [
-			"Comedy"
-		],
-		"season": "Spring",
-		"type": "TV",
-		"score": 8.16,
-		"theme": "UNKNOWN",
-		"studio": [
-			"Doga Kobo"
-		],
-		"demographic": [
-			"Seinen"
-		],
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Web manga",
-		"number_of_episodes": "UNKNOWN"
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/2/71992l.jpg",
@@ -3824,7 +3756,7 @@
 		"demographic": [
 			"Shoujo"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 26
 	},
@@ -3847,18 +3779,18 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 24
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1862/121020l.jpg",
 		"name": "Kotaro Lives Alone",
-		"year": "UNKNOWN",
+		"year": "2022",
 		"genre": [
 			"Slice of Life"
 		],
-		"season": "UNKNOWN",
+		"season": "Summer",
 		"type": "ONA",
 		"score": 8.16,
 		"theme": [
@@ -3870,20 +3802,20 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 10
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1408/114012l.jpg",
 		"name": "Akira",
-		"year": "UNKNOWN",
+		"year": "1988",
 		"genre": [
 			"Action",
 			"Horror",
 			"Sci-Fi"
 		],
-		"season": "UNKNOWN",
+		"season": "Summer",
 		"type": "Movie",
 		"score": 8.16,
 		"theme": [
@@ -3897,28 +3829,9 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 1
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1259/110227l.jpg",
-		"name": "Holo Graffiti",
-		"year": "UNKNOWN",
-		"genre": [
-			"Comedy"
-		],
-		"season": "UNKNOWN",
-		"type": "ONA",
-		"score": 8.15,
-		"theme": "UNKNOWN",
-		"studio": [
-			"Hololive Production"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Other",
-		"number_of_episodes": "UNKNOWN"
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1261/127311l.jpg",
@@ -3930,12 +3843,12 @@
 		"season": "Summer",
 		"type": "TV",
 		"score": 8.15,
-		"theme": "UNKNOWN",
+		"theme": ["Female Protagonist", "Guns", "Spy"],
 		"studio": [
 			"A-1 Pictures"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 13
 	},
@@ -3959,32 +3872,9 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/9/72614l.jpg",
-		"name": "Beyond the Boundary: I'll Be Here - Future",
-		"year": "UNKNOWN",
-		"genre": [
-			"Action",
-			"Romance",
-			"Supernatural"
-		],
-		"season": "UNKNOWN",
-		"type": "Movie",
-		"score": 8.14,
-		"theme": [
-			"School"
-		],
-		"studio": [
-			"Kyoto Animation"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Light novel",
-		"number_of_episodes": 1
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1959/147908l.jpg",
@@ -4007,8 +3897,8 @@
 		"studio": [
 			"Madhouse"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 12
 	},
@@ -4033,8 +3923,8 @@
 		"studio": [
 			"HAL Film Maker"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shoujo",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 38
 	},
@@ -4049,14 +3939,14 @@
 		"season": "Fall",
 		"type": "TV",
 		"score": 8.14,
-		"theme": "UNKNOWN",
+		"theme": ["Magic", "Fantasy", "Swords"],
 		"studio": [
 			"Pierrot"
 		],
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 170
 	},
@@ -4082,30 +3972,9 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 24
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1776/122162l.jpg",
-		"name": "Throne of Seal",
-		"year": "UNKNOWN",
-		"genre": [
-			"Action",
-			"Adventure",
-			"Fantasy"
-		],
-		"season": "UNKNOWN",
-		"type": "ONA",
-		"score": 8.13,
-		"theme": "UNKNOWN",
-		"studio": [
-			"Shenman Entertainment"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Web novel",
-		"number_of_episodes": 26
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1680/110451l.jpg",
@@ -4129,20 +3998,20 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/8/52353l.jpg",
 		"name": "The Wind Rises",
-		"year": "UNKNOWN",
+		"year": "2013",
 		"genre": [
 			"Award Winning",
 			"Drama",
 			"Romance"
 		],
-		"season": "UNKNOWN",
+		"season": "Summer",
 		"type": "Movie",
 		"score": 8.13,
 		"theme": [
@@ -4151,20 +4020,20 @@
 		"studio": [
 			"Studio Ghibli"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Family",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 1
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1210/119193l.jpg",
 		"name": "Pompo: The Cinéphile",
-		"year": "UNKNOWN",
+		"year": "2021",
 		"genre": [
 			"Comedy",
 			"Drama"
 		],
-		"season": "UNKNOWN",
+		"season": "Spring",
 		"type": "Movie",
 		"score": 8.13,
 		"theme": [
@@ -4173,21 +4042,21 @@
 		"studio": [
 			"CLAP"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Web manga",
 		"number_of_episodes": 1
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1618/146985l.jpg",
 		"name": "Interstella5555: The 5tory of The 5ecret 5tar 5ystem",
-		"year": "UNKNOWN",
+		"year": "2003",
 		"genre": [
 			"Adventure",
 			"Drama",
 			"Sci-Fi"
 		],
-		"season": "UNKNOWN",
+		"season": "Spring",
 		"type": "Movie",
 		"score": 8.13,
 		"theme": [
@@ -4197,8 +4066,8 @@
 		"studio": [
 			"Toei Animation"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Music",
 		"number_of_episodes": 1
 	},
@@ -4222,8 +4091,8 @@
 		"studio": [
 			"Madhouse"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 12
 	},
@@ -4244,8 +4113,8 @@
 		"studio": [
 			"A-1 Pictures"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 12
 	},
@@ -4270,7 +4139,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 25
 	},
@@ -4295,7 +4164,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -4320,7 +4189,7 @@
 		"demographic": [
 			"Shoujo"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 13
 	},
@@ -4336,39 +4205,14 @@
 		"season": "Spring",
 		"type": "TV",
 		"score": 8.12,
-		"theme": "UNKNOWN",
+		"theme": ["Mythology", "Female Protagonist", "Historical"],
 		"studio": [
 			"Production I.G"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Novel",
 		"number_of_episodes": 26
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1531/142751l.jpg",
-		"name": "Reborn!",
-		"year": 2006,
-		"genre": [
-			"Action",
-			"Comedy"
-		],
-		"season": "Fall",
-		"type": "TV",
-		"score": 8.12,
-		"theme": [
-			"Organized Crime",
-			"Super Power"
-		],
-		"studio": [
-			"Artland"
-		],
-		"demographic": [
-			"Shounen"
-		],
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Manga",
-		"number_of_episodes": 203
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1518/138730l.jpg",
@@ -4389,7 +4233,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -4413,7 +4257,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 24
 	},
@@ -4435,8 +4279,8 @@
 		"studio": [
 			"P.A. Works"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 12
 	},
@@ -4461,7 +4305,7 @@
 		"demographic": [
 			"Josei"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 11
 	},
@@ -4486,7 +4330,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 75
 	},
@@ -4509,8 +4353,8 @@
 		"studio": [
 			"P.A. Works"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Web manga",
 		"number_of_episodes": 12
 	},
@@ -4529,12 +4373,12 @@
 		"season": "Fall",
 		"type": "TV",
 		"score": 8.11,
-		"theme": "UNKNOWN",
+		"theme": ["Space"],
 		"studio": [
 			"Gonzo"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Novel",
 		"number_of_episodes": 24
 	},
@@ -4554,8 +4398,8 @@
 		"studio": [
 			"Kyoto Animation"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 13
 	},
@@ -4580,32 +4424,9 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 25
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1514/144274l.jpg",
-		"name": "Slay The Gods",
-		"year": "UNKNOWN",
-		"genre": [
-			"Action",
-			"Fantasy",
-			"Suspense"
-		],
-		"season": "UNKNOWN",
-		"type": "ONA",
-		"score": 8.09,
-		"theme": [
-			"Psychological"
-		],
-		"studio": [
-			"Shenman Entertainment"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Web novel",
-		"number_of_episodes": 15
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/10/71772l.jpg",
@@ -4619,12 +4440,12 @@
 		"season": "Winter",
 		"type": "TV",
 		"score": 8.09,
-		"theme": "UNKNOWN",
+		"theme": ["Gangs"],
 		"studio": [
 			"Brain's Base"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 24
 	},
@@ -4647,36 +4468,9 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 11
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/3/9853l.jpg",
-		"name": "Detroit Metal City",
-		"year": "UNKNOWN",
-		"genre": [
-			"Comedy"
-		],
-		"season": "UNKNOWN",
-		"type": "OVA",
-		"score": 8.09,
-		"theme": [
-			"Adult Cast",
-			"Gag Humor",
-			"Music",
-			"Parody",
-			"Showbiz"
-		],
-		"studio": [
-			"Studio 4°C"
-		],
-		"demographic": [
-			"Seinen"
-		],
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Manga",
-		"number_of_episodes": 12
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1075/131925l.jpg",
@@ -4701,7 +4495,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 13
 	},
@@ -4727,31 +4521,10 @@
 		"studio": [
 			"Triangle Staff"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 13
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/6/17529l.jpg",
-		"name": "Future Boy Conan",
-		"year": 1978,
-		"genre": [
-			"Adventure",
-			"Drama",
-			"Sci-Fi"
-		],
-		"season": "Spring",
-		"type": "TV",
-		"score": 8.09,
-		"theme": "UNKNOWN",
-		"studio": [
-			"Nippon Animation"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Novel",
-		"number_of_episodes": 26
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg",
@@ -4772,22 +4545,22 @@
 		"studio": [
 			"Studio Deen"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 10
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1/2432l.jpg",
 		"name": "The Girl Who Leapt Through Time",
-		"year": "UNKNOWN",
+		"year": "2006",
 		"genre": [
 			"Award Winning",
 			"Drama",
 			"Romance",
 			"Sci-Fi"
 		],
-		"season": "UNKNOWN",
+		"season": "Summer",
 		"type": "Movie",
 		"score": 8.09,
 		"theme": [
@@ -4797,31 +4570,10 @@
 		"studio": [
 			"Madhouse"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Josei",
+		"country_of_origin": "Japan",
 		"source_material": "Novel",
 		"number_of_episodes": 1
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1181/148235l.jpg",
-		"name": "Ave Mujica: The Die is Cast",
-		"year": 2025,
-		"genre": [
-			"Drama"
-		],
-		"season": "Winter",
-		"type": "TV",
-		"score": 8.08,
-		"theme": [
-			"Music"
-		],
-		"studio": [
-			"SANZIGEN"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Mixed media",
-		"number_of_episodes": 13
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1417/117422l.jpg",
@@ -4841,8 +4593,8 @@
 		"studio": [
 			"MAPPA"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 11
 	},
@@ -4865,35 +4617,9 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 13
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/11/84022l.jpg",
-		"name": "Skip Beat!",
-		"year": 2008,
-		"genre": [
-			"Comedy",
-			"Drama",
-			"Romance"
-		],
-		"season": "Fall",
-		"type": "TV",
-		"score": 8.07,
-		"theme": [
-			"Love Polygon",
-			"Showbiz"
-		],
-		"studio": [
-			"HAL Film Maker"
-		],
-		"demographic": [
-			"Shoujo"
-		],
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Manga",
-		"number_of_episodes": 25
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1784/106428l.jpg",
@@ -4919,7 +4645,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -4945,7 +4671,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 75
 	},
@@ -4969,7 +4695,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 22
 	},
@@ -4991,56 +4717,10 @@
 		"studio": [
 			"J.C.Staff"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "4-koma manga",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
+		"source_material": "Manga",
 		"number_of_episodes": 26
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1084/142685l.jpg",
-		"name": "Yatagarasu: The Raven Does Not Choose Its Master",
-		"year": 2024,
-		"genre": [
-			"Drama",
-			"Fantasy"
-		],
-		"season": "Spring",
-		"type": "TV",
-		"score": 8.05,
-		"theme": [
-			"Historical",
-			"Mythology"
-		],
-		"studio": [
-			"Pierrot"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Novel",
-		"number_of_episodes": 20
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/4/43643l.jpg",
-		"name": "The Pet Girl of Sakurasou",
-		"year": 2012,
-		"genre": [
-			"Drama",
-			"Romance"
-		],
-		"season": "Fall",
-		"type": "TV",
-		"score": 8.05,
-		"theme": [
-			"School",
-			"Visual Arts"
-		],
-		"studio": [
-			"J.C.Staff"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Light novel",
-		"number_of_episodes": 24
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1244/111115l.jpg",
@@ -5059,8 +4739,8 @@
 		"studio": [
 			"P.A. Works"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 13
 	},
@@ -5086,7 +4766,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 24
 	},
@@ -5110,7 +4790,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 25
 	},
@@ -5131,8 +4811,8 @@
 		"studio": [
 			"Kyoto Animation"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Novel",
 		"number_of_episodes": 22
 	},
@@ -5154,85 +4834,10 @@
 		"studio": [
 			"J.C.Staff"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 25
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1188/110437l.jpg",
-		"name": "Swallowed Star",
-		"year": "UNKNOWN",
-		"genre": [
-			"Action",
-			"Adventure",
-			"Fantasy",
-			"Sci-Fi"
-		],
-		"season": "UNKNOWN",
-		"type": "ONA",
-		"score": 8.05,
-		"theme": [
-			"Martial Arts"
-		],
-		"studio": [
-			"Sparkly Key Animation Studio"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Web novel",
-		"number_of_episodes": 26
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/5/7016l.jpg",
-		"name": "Kodocha",
-		"year": 1996,
-		"genre": [
-			"Comedy",
-			"Drama",
-			"Romance"
-		],
-		"season": "Spring",
-		"type": "TV",
-		"score": 8.05,
-		"theme": [
-			"Love Polygon",
-			"Showbiz"
-		],
-		"studio": [
-			"Gallop"
-		],
-		"demographic": [
-			"Shoujo"
-		],
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Manga",
-		"number_of_episodes": 102
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
-		"name": "Kyou kara Ore wa!!",
-		"year": "UNKNOWN",
-		"genre": [
-			"Action",
-			"Comedy"
-		],
-		"season": "UNKNOWN",
-		"type": "OVA",
-		"score": 8.05,
-		"theme": [
-			"Delinquents",
-			"School"
-		],
-		"studio": [
-			"Pierrot"
-		],
-		"demographic": [
-			"Shounen"
-		],
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Manga",
-		"number_of_episodes": 10
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
@@ -5253,8 +4858,8 @@
 		"studio": [
 			"Madhouse"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 12
 	},
@@ -5278,8 +4883,8 @@
 		"studio": [
 			"Bones"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 50
 	},
@@ -5305,41 +4910,20 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
-		"number_of_episodes": 12
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1364/143539l.jpg",
-		"name": "NieR:Automata Ver1.1a (Cour 2)",
-		"year": 2024,
-		"genre": [
-			"Action",
-			"Fantasy",
-			"Sci-Fi"
-		],
-		"season": "Summer",
-		"type": "TV",
-		"score": 8.04,
-		"theme": "UNKNOWN",
-		"studio": [
-			"A-1 Pictures"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Game",
 		"number_of_episodes": 12
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/7/64293l.jpg",
 		"name": "When Marnie Was There",
-		"year": "UNKNOWN",
+		"year": "2014",
 		"genre": [
 			"Drama",
 			"Mystery",
 			"Suspense"
 		],
-		"season": "UNKNOWN",
+		"season": "Summer",
 		"type": "Movie",
 		"score": 8.04,
 		"theme": [
@@ -5348,8 +4932,8 @@
 		"studio": [
 			"Studio Ghibli"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Family",
+		"country_of_origin": "Japan",
 		"source_material": "Novel",
 		"number_of_episodes": 1
 	},
@@ -5371,15 +4955,15 @@
 		"studio": [
 			"Bones"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 24
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1929/93629l.jpg",
 		"name": "Paprika",
-		"year": "UNKNOWN",
+		"year": "2006",
 		"genre": [
 			"Avant Garde",
 			"Award Winning",
@@ -5387,7 +4971,7 @@
 			"Sci-Fi",
 			"Suspense"
 		],
-		"season": "UNKNOWN",
+		"season": "Fall",
 		"type": "Movie",
 		"score": 8.04,
 		"theme": [
