@@ -5457,8 +5457,8 @@
 		"studio": [
 			"Pierrot"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 25
 	},
@@ -5481,8 +5481,8 @@
 		"studio": [
 			"Kinema Citrus"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shoujo",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 25
 	},
@@ -5497,12 +5497,12 @@
 		"season": "Winter",
 		"type": "TV",
 		"score": 7.92,
-		"theme": "UNKNOWN",
+		"theme": ["Maid", "Dragon", "Monster girl"],
 		"studio": [
 			"Kyoto Animation"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": ["Seinen", "Shounen"],
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 13
 	},
@@ -5525,7 +5525,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 38
 	},
@@ -5552,7 +5552,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 26
 	},
@@ -5575,8 +5575,8 @@
 		"studio": [
 			"A-1 Pictures"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Web manga",
 		"number_of_episodes": 11
 	},
@@ -5601,14 +5601,14 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 51
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1620/94968l.jpg",
 		"name": "Scissor Seven",
-		"year": "UNKNOWN",
+		"year": "2018",
 		"genre": [
 			"Action",
 			"Comedy",
@@ -5616,7 +5616,7 @@
 			"Mystery",
 			"Romance"
 		],
-		"season": "UNKNOWN",
+		"season": "Spring",
 		"type": "ONA",
 		"score": 7.91,
 		"theme": [
@@ -5627,8 +5627,8 @@
 			"Sharefun Studio",
 			"AHA Entertainment"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 10
 	},
@@ -5651,7 +5651,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 145
 	},
@@ -5671,8 +5671,8 @@
 		"studio": [
 			"J.C.Staff"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 15
 	},
@@ -5697,7 +5697,7 @@
 		"demographic": [
 			"Shoujo"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -5720,8 +5720,8 @@
 		"studio": [
 			"Satelight"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 25
 	},
@@ -5744,8 +5744,8 @@
 		"studio": [
 			"Manglobe"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 23
 	},
@@ -5766,8 +5766,8 @@
 		"studio": [
 			"MAPPA"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": ["Shounen", "Shoujo"],
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 12
 	},
@@ -5794,7 +5794,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -5816,8 +5816,8 @@
 		"studio": [
 			"Madhouse"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 13
 	},
@@ -5839,20 +5839,20 @@
 		"studio": [
 			"Bones"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 13
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1008/101845l.jpg",
 		"name": "Promare",
-		"year": "UNKNOWN",
+		"year": "2019",
 		"genre": [
 			"Action",
 			"Sci-Fi"
 		],
-		"season": "UNKNOWN",
+		"season": "Spring",
 		"type": "Movie",
 		"score": 7.89,
 		"theme": [
@@ -5862,8 +5862,8 @@
 		"studio": [
 			"Trigger"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 1
 	},
@@ -5878,14 +5878,14 @@
 		"season": "Spring",
 		"type": "TV",
 		"score": 7.89,
-		"theme": "UNKNOWN",
+		"theme": ["School", "Episodic"],
 		"studio": [
 			"Madhouse"
 		],
 		"demographic": [
 			"Shoujo"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 24
 	},
@@ -5906,8 +5906,8 @@
 		"studio": [
 			"TROYCA"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Josei",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 13
 	},
@@ -5933,7 +5933,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -5955,8 +5955,8 @@
 		"studio": [
 			"TMS Entertainment"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": ["Seinen", "Shounen"],
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 13
 	},
@@ -5981,7 +5981,7 @@
 		"demographic": [
 			"Kids"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Novel",
 		"number_of_episodes": 51
 	},
@@ -6007,7 +6007,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 26
 	},
@@ -6031,7 +6031,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 38
 	},
@@ -6062,7 +6062,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -6087,7 +6087,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -6110,21 +6110,21 @@
 		"studio": [
 			"Studio Deen"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Visual novel",
 		"number_of_episodes": 26
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/11/48721l.jpg",
 		"name": "Death Billiards",
-		"year": "UNKNOWN",
+		"year": "2013",
 		"genre": [
 			"Drama",
 			"Fantasy",
 			"Suspense"
 		],
-		"season": "UNKNOWN",
+		"season": "Winter",
 		"type": "Movie",
 		"score": 7.87,
 		"theme": [
@@ -6135,8 +6135,8 @@
 		"studio": [
 			"Madhouse"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 1
 	},
@@ -6163,7 +6163,7 @@
 			"Kids",
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 1787
 	},
@@ -6189,7 +6189,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 26
 	},
@@ -6218,7 +6218,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 167
 	},
@@ -6263,8 +6263,8 @@
 		"studio": [
 			"Kyoto Animation"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shoujo",
+		"country_of_origin": "Japan",
 		"source_material": "4-koma manga",
 		"number_of_episodes": 13
 	},
@@ -6289,7 +6289,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 24
 	},
@@ -6314,7 +6314,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -6329,14 +6329,14 @@
 		"season": "Fall",
 		"type": "TV",
 		"score": 7.85,
-		"theme": "UNKNOWN",
+		"theme": ["Marriage", "Family life"],
 		"studio": [
 			"Seven Arcs"
 		],
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -6361,7 +6361,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 51
 	},
@@ -6384,7 +6384,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 178
 	},
@@ -6405,8 +6405,8 @@
 		"studio": [
 			"Bones"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Josei",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 24
 	},
@@ -6434,7 +6434,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 60
 	},
@@ -6458,7 +6458,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 13
 	},
@@ -6480,8 +6480,8 @@
 		"studio": [
 			"Lerche"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 12
 	},
@@ -6517,12 +6517,12 @@
 		"season": "Fall",
 		"type": "TV",
 		"score": 7.83,
-		"theme": "UNKNOWN",
+		"theme": ["Crime", "Fugitive"],
 		"studio": [
 			"Manglobe"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 22
 	},
@@ -6544,8 +6544,8 @@
 		"studio": [
 			"Madhouse"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 12
 	},
@@ -6569,8 +6569,8 @@
 		"studio": [
 			"NAZ"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 13
 	},
@@ -6593,7 +6593,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -6616,8 +6616,8 @@
 		"studio": [
 			"Kyoto Animation"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Light novel",
 		"number_of_episodes": 14
 	},
@@ -6640,7 +6640,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 52
 	},
@@ -6664,8 +6664,8 @@
 		"studio": [
 			"Shuka"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 12
 	},
@@ -6688,7 +6688,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -6715,7 +6715,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -6739,8 +6739,8 @@
 			"Satelight",
 			"HORNETS"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Web manga",
 		"number_of_episodes": 12
 	},
@@ -6762,8 +6762,8 @@
 		"studio": [
 			"Trigger"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shoujo",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 25
 	},
@@ -6786,7 +6786,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 11
 	},
@@ -6810,9 +6810,9 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
-		"number_of_episodes": "UNKNOWN"
+		"number_of_episodes": "Ongoing"
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/1912/140804l.jpg",
@@ -6862,7 +6862,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -6910,7 +6910,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -6925,14 +6925,14 @@
 		"season": "Spring",
 		"type": "TV",
 		"score": 7.8,
-		"theme": "UNKNOWN",
+		"theme": ["Maid", "Butler"],
 		"studio": [
 			"CloverWorks"
 		],
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 13
 	},
@@ -6958,7 +6958,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -6982,7 +6982,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -7005,7 +7005,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 25
 	},
@@ -7033,7 +7033,7 @@
 		"demographic": [
 			"Seinen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 12
 	},
@@ -7055,58 +7055,10 @@
 		"studio": [
 			"Science SARU"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Seinen",
+		"country_of_origin": "Japan",
 		"source_material": "Book",
 		"number_of_episodes": 11
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/5/59403l.jpg",
-		"name": "Wolf's Rain",
-		"year": 2003,
-		"genre": [
-			"Action",
-			"Adventure",
-			"Drama",
-			"Fantasy",
-			"Mystery"
-		],
-		"season": "Winter",
-		"type": "TV",
-		"score": 7.79,
-		"theme": "UNKNOWN",
-		"studio": [
-			"Bones"
-		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Original",
-		"number_of_episodes": 26
-	},
-	{
-		"image": "https://cdn.myanimelist.net/images/anime/1662/118849l.jpg",
-		"name": "Taisho Otome Fairy Tale",
-		"year": 2021,
-		"genre": [
-			"Comedy",
-			"Drama",
-			"Romance"
-		],
-		"season": "Fall",
-		"type": "TV",
-		"score": 7.79,
-		"theme": [
-			"Historical"
-		],
-		"studio": [
-			"SynergySP"
-		],
-		"demographic": [
-			"Shounen"
-		],
-		"country_of_origin": "UNKNOWN",
-		"source_material": "Manga",
-		"number_of_episodes": 12
 	},
 	{
 		"image": "https://cdn.myanimelist.net/images/anime/5/21196l.jpg",
@@ -7129,7 +7081,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 373
 	},
@@ -7155,7 +7107,7 @@
 		"demographic": [
 			"Kids"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Other",
 		"number_of_episodes": 54
 	},
@@ -7179,8 +7131,8 @@
 		"studio": [
 			"Atelier Pontdarc"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Web manga",
 		"number_of_episodes": 13
 	},
@@ -7208,7 +7160,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 161
 	},
@@ -7231,8 +7183,8 @@
 			"Kinema Citrus",
 			"White Fox"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "4-koma manga",
 		"number_of_episodes": 12
 	},
@@ -7256,7 +7208,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 24
 	},
@@ -7280,8 +7232,8 @@
 		"studio": [
 			"Sunrise"
 		],
-		"demographic": "UNKNOWN",
-		"country_of_origin": "UNKNOWN",
+		"demographic": "Shounen",
+		"country_of_origin": "Japan",
 		"source_material": "Original",
 		"number_of_episodes": 43
 	},
@@ -7307,7 +7259,7 @@
 		"demographic": [
 			"Shounen"
 		],
-		"country_of_origin": "UNKNOWN",
+		"country_of_origin": "Japan",
 		"source_material": "Manga",
 		"number_of_episodes": 114
 	}
