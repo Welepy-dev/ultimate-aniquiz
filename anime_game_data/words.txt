@@ -1,5 +1,0 @@
-Words that appear more than once in the anime data:
---------------------------------------------------
-
-
-Total number of repeated words: 836
